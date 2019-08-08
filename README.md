@@ -4,6 +4,8 @@ A comparator-based TSAL design for FSAE Electric 2019
 ## Specifications
 
 
+| Parameter                  | Value             |
+|----------------------------|-------------------|
 | Max Voltage (HVin)         | 200V DC           |
 | Switching threshold (HVin) | 60V DC            |
 | Supply Voltage             | 12V DC            |
